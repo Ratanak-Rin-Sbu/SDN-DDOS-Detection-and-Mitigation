@@ -1,1 +1,1 @@
-# SDN-DDOS-Detection-and-Mitigation-using-ML-and-Statistical-Methods
+# SDN-DDOS Detection and Mitigation Using ML and Statistical Methods
